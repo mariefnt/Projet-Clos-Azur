@@ -60,7 +60,7 @@ h3,p{
 }
 /* bouton  */
 .btn{
-    background-color:#E2C453;
+    background-color:#E2C453 !important;
 }
 
 .btn:focus{
